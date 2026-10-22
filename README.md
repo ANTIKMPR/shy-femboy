@@ -91,8 +91,7 @@ Your folder structure should look like this:
 ```text
 shy-femboy-claude/
 ├── README.md
-└── shy-femboy/
-    └── SKILL.md
+└── SKILL.md
 ```
 
 If your skill already has a different folder structure, keep the `SKILL.md` file in the location required by your installation method.
